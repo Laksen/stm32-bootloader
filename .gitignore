@@ -1,0 +1,11 @@
+lib/
+backup/
+
+**/*.lps
+**/*.bak
+**/*.exe
+**/*.ico
+**/*.res
+
+cmdline
+main
